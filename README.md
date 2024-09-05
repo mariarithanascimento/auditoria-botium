@@ -5,7 +5,7 @@
 ## Summary
 - [Categorias de Controle](#Categorias-de-Controle)
 - [Botium Toys: Relatório de Escopo, Objetivos e Avaliação de Riscos](#BotiumToys-RelatórioDeEscopo-Objetivos-e-AvaliaçãoDeRiscos)
-- [Checklist - Controle de segurança (pdf)]()
+- [Checklist - Controle de segurança (pdf)](https://github.com/mariarithanascimento/auditoria-botium/blob/646c3405c46aa67c76ebb1ad2f4ebf5c44d78ab4/Checklist%20-%20Controle%20de%20seguran%C3%A7a.pdf)
 
 
 ## `Categorias de Controle`
