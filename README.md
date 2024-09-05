@@ -61,7 +61,7 @@ Circuito fechado de televisão (CCTV) | Preventivo/Detectivo | O circuito fechad
 Trancas | Dissuasivo/Preventivo | Fortalecer a integridade dissuadindo e impedindo que pessoal não autorizado acesse fisicamente os ativos.
 Detecção e prevenção de incêndios (alarme de incêndio, sistema de sprinklers, etc.) | Detectivo/Preventivo | Detectar incêndio no local físico e prevenir danos a ativos físicos, como inventário, servidores, etc.
 
-## `Botium Toys: Relatório de Escopo, Objetivos e Avaliação de Riscos`
+## `Botium Toys - Relatório de Escopo, Objetivos e Avaliação de Riscos`
 
 **1. Escopo e objetivos da auditoria.** 
 **Escopo:** O escopo desta auditoria abrange todo o programa de segurança da Botium Toys. Isso inclui seus ativos, como equipamentos e dispositivos dos funcionários, a rede interna e os sistemas. Será necessário revisar os ativos da Botium Toys e os controles e práticas de conformidade que estão em vigor. 
